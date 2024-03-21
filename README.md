@@ -12,7 +12,7 @@ Once the above has been done, run: <br />
 To run the first task: <br />
     source venv/bin/activate <br />
     cd shopgrok_scrapers <br />
-    scrapy crawl surf <br />
+    scrapy crawl fish <br />
 
 To run the second task: <br />
     source venv/bin/activate <br />
