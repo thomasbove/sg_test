@@ -1,5 +1,5 @@
-Using Python version 3.10.12
-Using Pip version 22.0.2
+Using Python version 3.10.12 \
+Using Pip version 22.0.2 \
 
 Need to install virtualenv by running:
     pip install virtualenv
